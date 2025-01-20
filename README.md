@@ -12,7 +12,7 @@ Setup
 
 Before starting the application, ensure you have the following installed on your machine:
 
-.NET 8 SDK (Download from here).
+.NET 8 SDK (Download from here https://dotnet.microsoft.com/en-us/download/dotnet).
 SQL Server or any other database system configured with SQL Server (Docker can be used to quickly spin up a SQL Server container).
 
 Clone the Repository:
@@ -35,7 +35,7 @@ API Documentation
 Swagger UI
 The Position Tracking API uses Swagger for documenting the available endpoints. You can interact with the API directly through Swagger by navigating to:
 
-[https://localhost:44334/swagger]
+[http://localhost:5185/swagger]
 
 Swagger will display a list of available endpoints, allow you to send requests, and show the responses for each endpoint.
 
